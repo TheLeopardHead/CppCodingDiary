@@ -13,3 +13,8 @@
 
 
 ![707示例](https://code-thinking-1253855093.file.myqcloud.com/pics/20200814200558953.png)
+
+
+## 解题思路
+
+需要多加注意0和空的边界情况
