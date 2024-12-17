@@ -21,3 +21,7 @@
 示例 3：
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211219221812.png)![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211219221812.png)
+
+## 解题思路
+
+此处两个链表相交的情况，对应相交节点之后所有节点均相同，主要要观察到这个特性。
