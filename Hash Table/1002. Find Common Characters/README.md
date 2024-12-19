@@ -17,3 +17,7 @@
 1 <= words.length <= 100
 1 <= words[i].length <= 100
 words[i] 由小写英文字母组成
+
+## 解题思路
+
+主要注意一下std::unordered_map等哈希结构的用法。
